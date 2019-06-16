@@ -1,0 +1,3 @@
+﻿  Game.cpp
+c:\users\bfbcp\documents\visual studio 2017\projects\spacegame\spacegame\game.cpp(34): warning C4101: 'theta': unreferenced local variable
+  SpaceGame.vcxproj -> C:\Users\bfbcp\Documents\Visual Studio 2017\Projects\SpaceGame\x64\Debug\SpaceGame.exe
